@@ -29,6 +29,7 @@ time, mark, audio, video {
 
 body {
     line-height:1;
+    
 }
 
 article,aside,details,figcaption,figure,
@@ -103,4 +104,25 @@ input, select {
 
 .clear {
     clear: both;
+}
+
+
+
+.container {
+   
+   
+}
+
+.row{
+    
+    display: flex;
+}
+
+.col-sm-4 {
+    align-self: flex-end;        
+
+}
+
+main {
+    display: flex;
 }
