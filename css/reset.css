@@ -108,12 +108,10 @@ input, select {
 
 
 
-.container {
-   
-   
-}
 
-.row{
+  
+
+.row {
     
     display: flex;
 }
@@ -124,5 +122,13 @@ input, select {
 }
 
 main {
-    display: flex;
+   display: flex;
+}
+
+.name-photo {
+    background-color: chartreuse;
+}
+
+.coucou {
+    background-color: darkblue;
 }
