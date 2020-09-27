@@ -125,10 +125,14 @@ main {
    display: flex;
 }
 
-.name-photo {
-    background-color: chartreuse;
+
+.links{
+   
+    justify-items: flex-end;
+    
 }
 
-.coucou {
-    background-color: darkblue;
+.station {
+    align-items: flex-end;
+    background-color: darkmagenta;
 }
