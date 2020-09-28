@@ -128,11 +128,8 @@ main {
 
 .links{
    
-    justify-items: flex-end;
+    justify-content: flex-end;
+    
     
 }
 
-.station {
-    align-items: flex-end;
-    background-color: darkmagenta;
-}
